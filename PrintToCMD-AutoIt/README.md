@@ -20,8 +20,9 @@ The first tool, **`get-tester-info`**, prints the computer (station) name and cu
 ; from SciTE or double-clicking .au3 (to see console output, compile to EXE or run from CMD)
 C:\> Aut2Exe.exe get-tester-info.au3
 
+```
 ### 2. Compile to EXE (recommended) and run from CMD
-
+```
 ; Compile get-tester-info.au3 to get-tester-info.exe
 (In SciTE: Tools → Compile, or use Aut2Exe)
 
@@ -36,3 +37,4 @@ get-tester-info - AutoIt CMD utility
 -----------------------------------
 Computer: MY-COMP-01
 User: hung
+```
